@@ -1,2 +1,2 @@
 # GNIOTTechClub
-#Its a GNIOTTechClub app,whic describe about our club and all the events
+#Its a GNIOTTechClub app,which describe about our club and all the events
