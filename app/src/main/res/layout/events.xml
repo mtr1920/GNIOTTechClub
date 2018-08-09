@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E0E0E0"
+    android:weightSum="1"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#455A6A"
+        android:paddingLeft="20dp"
+        android:paddingBottom="20dp">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:text="EVENTS" />
+
+    </LinearLayout>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/button19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+                android:elevation="100dp"
+                android:gravity="bottom"
+                android:textAllCaps="false"
+                android:paddingBottom="16dp"
+                android:paddingLeft="24dp"
+                android:text="Hackathon"
+                android:layout_marginBottom="1dp"/>
+            <Button
+                android:id="@+id/button20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+                android:elevation="100dp"
+                android:gravity="bottom"
+                android:textAllCaps="false"
+                android:paddingBottom="16dp"
+                android:paddingLeft="24dp"
+                android:text="Product Designing"
+                android:layout_marginBottom="1dp"/>
+            <Button
+                android:id="@+id/button21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+                android:elevation="100dp"
+                android:gravity="bottom"
+                android:textAllCaps="false"
+                android:paddingBottom="16dp"
+                android:paddingLeft="24dp"
+                android:text="Selfie Contest"
+                android:layout_marginBottom="1dp"/>
+       <!--     <Button
+                android:id="@+id/button22"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+                android:elevation="100dp"
+                android:gravity="bottom"
+                android:textAllCaps="false"
+                android:paddingBottom="16dp"
+                android:paddingLeft="24dp"
+                android:text="Photography"
+                android:textSize="16dp"
+                android:layout_marginBottom="1dp"/>     -->
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+                android:elevation="100dp"
+                android:gravity="bottom"
+                android:textAllCaps="false"
+                android:paddingBottom="16dp"
+                android:paddingLeft="24dp"
+                android:text="Robotics"
+                android:layout_marginBottom="1dp"/>
+
+            <Button
+                android:text="Momentum"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button2"
+                android:textAllCaps="false"
+                android:elevation="100dp"
+                android:gravity="bottom"
+                android:paddingBottom="16dp"
+                android:background="#ffffff"
+                android:paddingLeft="24dp"
+                android:layout_marginBottom="1dp"/>
+
+            <Button
+                android:text="Lan Thrash"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button3"
+                android:textAllCaps="false"
+                android:elevation="100dp"
+                android:background="#ffffff"
+                android:paddingLeft="24dp"
+                android:gravity="bottom"
+                android:paddingBottom="16dp"
+                android:layout_marginBottom="1dp"/>
+
+            <Button
+                android:text="Debate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button4"
+                android:textAllCaps="false"
+                android:elevation="100dp"
+                android:background="#ffffff"
+                android:paddingLeft="24dp"
+                android:gravity="bottom"
+                android:paddingBottom="16dp"
+                android:layout_marginBottom="1dp"/>
+
+            <Button
+                android:text="Extempore"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button5"
+                android:textAllCaps="false"
+                android:elevation="100dp"
+                android:background="#ffffff"
+                android:paddingLeft="24dp"
+                android:gravity="bottom"
+                android:paddingBottom="16dp"
+                android:layout_marginBottom="1dp"/>
+            <Button
+                android:text="Poster Making"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button8"
+                android:textAllCaps="false"
+                android:elevation="100dp"
+                android:background="#ffffff"
+                android:paddingLeft="24dp"
+                android:gravity="bottom"
+                android:paddingBottom="16dp"
+                android:layout_marginBottom="1dp"/>
+
+            <Button
+                android:text="An Idea for Change"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button9"
+                android:textAllCaps="false"
+                android:elevation="100dp"
+                android:background="#ffffff"
+                android:paddingLeft="24dp"
+                android:gravity="bottom"
+                android:paddingBottom="16dp"
+                android:layout_marginBottom="1dp"/>
+
+            <Button
+                android:text="Backtrack"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button10"
+                android:textAllCaps="false"
+                android:elevation="100dp"
+                android:background="#ffffff"
+                android:paddingLeft="24dp"
+                android:gravity="bottom"
+                android:paddingBottom="16dp"
+                android:layout_marginBottom="1dp"/>
+
+            <Button
+                android:text="Debugging"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button11"
+                android:textAllCaps="false"
+                android:elevation="100dp"
+                android:background="#ffffff"
+                android:paddingLeft="24dp"
+                android:gravity="bottom"
+                android:paddingBottom="16dp"
+                android:layout_marginBottom="1dp"/>
+
+            <Button
+                android:text="Spell Bee"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button12"
+                android:elevation="100dp"
+                android:textAllCaps="false"
+                android:background="#ffffff"
+                android:paddingLeft="24dp"
+                android:gravity="bottom"
+                android:paddingBottom="16dp"
+                android:layout_marginBottom="1dp"/>
+
+            <Button
+                android:text="IQ Sector"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button13"
+                android:elevation="100dp"
+                android:textAllCaps="false"
+                android:background="#ffffff"
+                android:paddingLeft="24dp"
+                android:gravity="bottom"
+                android:paddingBottom="16dp"
+                android:layout_marginBottom="1dp"/>
+
+            <Button
+                android:text="Bridge Building"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button14"
+                android:elevation="100dp"
+                android:textAllCaps="false"
+                android:background="#ffffff"
+                android:paddingLeft="24dp"
+                android:gravity="bottom"
+                android:paddingBottom="16dp"
+                android:layout_marginBottom="1dp"/>
+
+            <Button
+                android:text="Circuit Sergeon"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button15"
+                android:elevation="100dp"
+                android:textAllCaps="false"
+                android:background="#ffffff"
+                android:paddingLeft="24dp"
+                android:gravity="bottom"
+                android:paddingBottom="16dp"
+                android:layout_marginBottom="1dp"/>
+
+            <Button
+                android:text="Quiz"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button16"
+                android:textAllCaps="false"
+                android:elevation="100dp"
+                android:background="#ffffff"
+                android:paddingLeft="24dp"
+                android:gravity="bottom"
+                android:paddingBottom="16dp"
+                android:layout_marginBottom="1dp"/>
+
+            <Button
+                android:text="Beg Borrow Steal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button17"
+                android:elevation="100dp"
+                android:textAllCaps="false"
+                android:background="#ffffff"
+                android:paddingLeft="24dp"
+                android:gravity="bottom"
+                android:paddingBottom="16dp"
+                android:layout_marginBottom="1dp"/>
+
+            <Button
+                android:text="Creative Writing"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button18"
+                android:elevation="100dp"
+                android:textAllCaps="false"
+                android:background="#ffffff"
+                android:paddingLeft="24dp"
+                android:gravity="bottom"
+                android:paddingBottom="16dp"
+                android:layout_marginBottom="1dp"/>
+
+            <Button
+                android:text="Download PDF"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button23"
+                android:elevation="100dp"
+                android:textAllCaps="false"
+                android:background="#ffffff"
+                android:padding="16dp"
+                android:layout_marginBottom="1dp"
+                android:textColor="#00b0ff"/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="0.4"
+        android:background="#E0E0E0">
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/workshops"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginBottom="1sp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:id="@+id/viewA">
+
+                <ImageView
+                    android:layout_height="200dp"
+                    android:layout_width="match_parent"
+                    android:src="@drawable/events"
+                    android:scaleType="fitXY"/>
+
+                <TextView
+                    android:text="TechSparks#18"
+                    android:id="@+id/textView"
+                    android:layout_marginTop="14dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginRight="16dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:textSize="32dp" />
+
+                <TextView
+                    android:text="This time we are hosting mega Inter College technical event on 6th April and 7th April 2018 in its college premises itself. The great episodes of Tech Fest have been organized by the Tech Club of GNIOT since 2014. For more information about TechSparks#18 and about our TechClub go to our website:  "
+                    android:textColor="#222222"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="normal"
+                    android:textSize="16sp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginRight="16dp" />
+                <TextView
+                    android:text="http://www.gniotclubs.com"
+                    android:id="@+id/imageButton4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="normal"
+                    android:textSize="15sp"
+                    android:textColor="#00b0ff"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginRight="16dp"
+                    android:paddingBottom="14dp"
+                    android:clickable="true"
+                    />
+
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <LinearLayout
+            android:id="@+id/viewB"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.4"
+            android:background="#E0E0E0"
+            android:orientation="vertical"/>
+
+    </LinearLayout>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/button2"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:layout_margin="16dp"
+        android:clickable="true"
+        android:tint="#fff"
+        app:backgroundTint="#ff4081"
+        android:src="@drawable/next"
+        app:layout_anchor="@id/viewA"
+        app:layout_anchorGravity="bottom|right|end"/>
+
+</android.support.design.widget.CoordinatorLayout>
+
+  <!--  <Button
+        android:text="Event Registeration"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button"
+        android:textAllCaps="false"
+        android:layout_marginTop="20dp"
+        android:textSize="18sp"
+        android:background="@android:color/holo_red_dark"
+        android:textColor="#FFFFFF"
+        android:elevation="100dp" />
+
+        -->
+

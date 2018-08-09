@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E0E0E0"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#2196f3">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:textColor="#ffffff"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="20dp"
+            android:textSize="18sp"
+            android:text="An Idea for Change" />
+
+    </LinearLayout>
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="2dp">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#607D8B">
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:src="@drawable/idea"
+                android:layout_height="160dp"
+                android:layout_width="250dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginLeft="220dp"/>
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="In this event we will let all the participants to put their idea on the table that can be a reason for any change in the world that idea can be in the form of working or non-working. "
+                android:layout_marginTop="16dp"
+                android:layout_marginRight="120dp"
+                android:layout_marginLeft="16dp"
+                android:textStyle="normal"
+                android:textSize="14sp"
+                android:textColor="#ffffff" />
+
+            </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="2dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:background="#607D8B"
+                    android:padding="16dp">
+
+                    <TextView
+                        android:text="Rules"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="16dp"
+                        android:id="@+id/textView3"
+                        android:textStyle="normal|bold"
+                        android:textAllCaps="true"
+                        android:textSize="18sp"
+                        android:textColor="#FFFFFF" />
+
+                    <TextView
+                        android:text="1. There will be group of 2 participants in this Event."
+                        android:layout_marginTop="16dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView4"
+                        android:textSize="14sp"
+                        android:textColor="#ffffff" />
+                    <TextView
+                        android:text="2. Each group will be provided 5 to 8 mins to present their idea."
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView7"
+                        android:textSize="14sp"
+                        android:textColor="#ffffff" />
+                    <TextView
+                        android:text="3. The preferred language must be English."
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView14"
+                        android:textSize="14sp"
+                        android:textColor="#ffffff" />
+                    <TextView
+                        android:text="4. Power Presentation/ Slideshow is required."
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView8"
+                        android:textSize="14sp"
+                        android:textColor="#ffffff" />
+                    <TextView
+                        android:text="5. Topic selected by group must have relevance to technical fields.        "
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView9"
+                        android:textSize="14sp"
+                        android:textColor="#ffffff" />
+                    <TextView
+                        android:text="6. The jury members will take the decision about the winners."
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView10"
+                        android:textSize="14sp"
+                        android:textColor="#ffffff" />
+                    <TextView
+                        android:text="7. The idea should be innovative."
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView11"
+                        android:textSize="14sp"
+                        android:textColor="#ffffff" />
+                    <TextView
+                        android:text="8. The group members may bring charts to present their idea, also markers will be provided to make it understand better. "
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView12"
+                        android:textSize="14sp"
+                        android:textColor="#ffffff" />
+                    <TextView
+                        android:text="9. Both of the partners have to speak to express their idea. "
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView13"
+                        android:textSize="14sp"
+                        android:textColor="#ffffff" />
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="2dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:background="#607D8B"
+                    android:padding="16dp">
+
+                    <TextView
+                        android:text="Schedule"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView5"
+                        android:textAllCaps="true"
+                        android:layout_marginTop="20dp"
+                        android:textStyle="normal|bold"
+                        android:textSize="18sp"
+                        android:textColor="#FFFFFF" />
+
+                    <TextView
+                        android:text="April 06-07,2018 at GNIOT"
+                        android:layout_marginTop="16dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView6"
+                        android:textSize="14sp"
+                        android:layout_marginBottom="30dp"
+                        android:textStyle="normal|bold"
+                        android:textColor="#ffffff" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

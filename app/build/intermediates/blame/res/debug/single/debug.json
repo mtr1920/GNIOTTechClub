@@ -1,0 +1,2274 @@
+[
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_design_ic_visibility.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/drawable-mdpi-v4/design_ic_visibility.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_banner.jpg.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/banner.jpg"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_soumya1.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/soumya1.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_design_bottom_sheet_dialog.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_divyansh.jpg.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/divyansh.jpg"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color_abc_tint_spinner.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_screen_simple.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_printp.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/printp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_spell_bee.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/spell_bee.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/anim_abc_slide_out_top.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_notification_action_tombstone.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_cs.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/cs.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_iq_sector.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/iq_sector.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_circuit.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/circuit.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color_switch_thumb_material_light.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_mini.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/mini.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color_switch_thumb_material_dark.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_creativewriting.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/creativewriting.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color-v23_abc_tint_switch_thumb.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_name.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-xhdpi/ic_action_name.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi_phone.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-hdpi/phone.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_idea.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/idea.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_radio.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_nfs.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/nfs.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_beg.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/beg.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_ic_search_api_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_btn_radio_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color_abc_hint_foreground_material_dark.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_ayush.jpg.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/ayush.jpg"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_tick_mark_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_notification_template_icon_group.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_selfie.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/selfie.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_icon.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_design_ic_visibility.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-v21_design_password_eye.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_name.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-mdpi/ic_action_name.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color-v23_abc_tint_default.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color_design_error.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/color/design_error.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi_mail.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-xxhdpi/mail.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/drawable-hdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_design_password_eye.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_pos51.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/pos51.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_utsav.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/utsav.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color_abc_search_url_text.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_light.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_pos7.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/pos7.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-v21_avd_hide_password.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_dark.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_design_navigation_item.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/anim_design_snackbar_in.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout-v11_notification_media_action.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_design_snackbar_background.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_momentum.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/momentum.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/anim_design_bottom_sheet_slide_in.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_ts.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/ts.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi_phone.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-xhdpi/phone.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/anim-v21_design_bottom_sheet_slide_in.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_design_bottom_navigation_item.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_design_fab_background.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_instagramicon.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/instagramicon.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/anim_abc_slide_in_top.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_shashi.jpg.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/shashi.jpg"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_lan_thrash.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/lan_thrash.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_cs.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/cs.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_workshops.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/workshops.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/anim_abc_popup_exit.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_select_dialog_multichoice_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_circuit_sergeon.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/circuit_sergeon.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_select_dialog_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/anim_abc_fade_out.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color_abc_tint_seek_thumb.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_action_bar_up_container.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi_public1.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-xhdpi/public1.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_quiz.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/quiz.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_events.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/events.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_activitysplash.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/activitysplash.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_backtrack.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/backtrack.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_himalaya.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/himalaya.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-v21_abc_edit_text_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/anim-v21_design_bottom_sheet_slide_out.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_nfs.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/nfs.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/menu_menu_scrolling.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/menu/menu_scrolling.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_facebookicon.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/facebookicon.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/mipmap-hdpi_workshop.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/mipmap-hdpi/workshop.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color_abc_tint_switch_thumb.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_ic_clear_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_debate.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/debate.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-v21_design_bottom_navigation_item_background.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_poster_making.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/poster_making.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_arduino.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/arduino.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout-v11_notification_template_big_media_custom.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_vector_test.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_robot.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/robot.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/mipmap-xhdpi_workshop.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/mipmap-xhdpi/workshop.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/anim_design_fab_in.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_gagan.jpg.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/gagan.jpg"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_creative_writing.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/creative_writing.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_twittericon.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/twittericon.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color-v23_abc_tint_btn_checkable.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_design_menu_item_action_area.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_design_bottom_navigation_item_background.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_punit.jpg.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/punit.jpg"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_robotics.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/robotics.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_design_navigation_menu_item.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi_public1.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-hdpi/public1.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/drawable-xhdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_print.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/print.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_robosoccer.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/robosoccer.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_product.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/product.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_debugging.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/debugging.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/anim_design_snackbar_out.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color_abc_hint_foreground_material_light.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_ourteam.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/ourteam.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_ts17.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/ts17.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_hackathon.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/hackathon.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/drawable-xxxhdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_btn_borderless_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_notification_action.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi_mail.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-mdpi/mail.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_iq.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/iq.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_prabhat.jpg.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/prabhat.jpg"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_design_navigation_item_separator.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_design_navigation_menu.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color_abc_tint_default.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_design_layout_snackbar.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/anim_abc_popup_enter.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_text_cursor_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color-v23_abc_tint_switch_track.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_coc.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/coc.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/anim_abc_slide_in_bottom.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_edit_text_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_rajdevtiwari.jpg.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/rajdevtiwari.jpg"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color_abc_tint_edittext.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color_design_tint_password_toggle.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_tab_indicator_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_dark.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_action_menu_layout.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_debugging.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/debugging.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color-v23_design_tint_password_toggle.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_debug.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/debug.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_next.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/next.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_momentum.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/momentum.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_dialog_title_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout-sw600dp-v13_design_layout_snackbar.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_pos0.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/pos0.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/drawable-xxhdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_teamm.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/teamm.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_design_ic_visibility.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/drawable-xxxhdpi-v4/design_ic_visibility.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_notification_template_custom_big.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_an_idea_for_change.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/an_idea_for_change.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_quiz.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/quiz.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_design_text_input_password_icon.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_selfie.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/selfie.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_staadpro.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/staadpro.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi_public1.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-mdpi/public1.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_bbuilding.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/bbuilding.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi_phone.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-mdpi/phone.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_tss.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/tss.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/anim_design_fab_out.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_workshop.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/mipmap-xxxhdpi/workshop.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_tf18.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/tf18.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_posloho.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/posloho.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_mtr.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/mtr.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi_mail.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-xhdpi/mail.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_ourteam.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/ourteam.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_anu.jpg.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/anu.jpg"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_bridge.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/bridge.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-v21_avd_show_password.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi_mail.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-hdpi/mail.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout-v11_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_arp.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/arp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_ar.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/ar.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_backtrack.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/backtrack.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_bg1.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/bg1.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_extempore.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/extempore.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_soumya2.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/soumya2.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_select_dialog_item_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_robo_soccer.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/robo_soccer.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color-v23_abc_tint_spinner.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_design_ic_visibility.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/drawable-xhdpi-v4/design_ic_visibility.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_ppt.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/ppt.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_lan.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/lan.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_text_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_poster.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/poster.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi_public1.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-xxhdpi/public1.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_btn_check_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color-v23_abc_tint_seek_thumb.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_design_ic_visibility.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/drawable-xxhdpi-v4/design_ic_visibility.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_printing.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/printing.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_navigation_empty_icon.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi_phone.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-xxhdpi/phone.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_creative.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/creative.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color_abc_tint_switch_track.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/drawable-mdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_rohit.jpg.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/rohit.jpg"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_dataanalytics.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/dataanalytics.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_extempore.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/extempore.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/anim_abc_slide_out_bottom.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_screen_content_include.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color_abc_tint_btn_checkable.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/animator-v21_design_appbar_state_list_animator.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/animator-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_coc.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/coc.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_product__design.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/product__design.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_mocktest.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/mocktest.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color_abc_btn_colored_text_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_switch_thumb_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_design_layout_tab_icon.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color-v23_abc_tint_edittext.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_hackathon.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/hackathon.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_expanded_menu_layout.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout-v11_notification_media_cancel_action.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_action_bar_title_item.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_mini.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/mini.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_roborace.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/roborace.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/mipmap-mdpi_workshop.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/mipmap-mdpi/workshop.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_team.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/team.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_design_navigation_item_header.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_design_layout_tab_text.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_bridge_building.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/bridge_building.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_workshop.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/workshop.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_augmented.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/augmented.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_btn_colored_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_soumya.jpeg.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/soumya.jpeg"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-v23_abc_control_background_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_design_ic_visibility.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/drawable-hdpi-v4/design_ic_visibility.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout-v11_notification_template_big_media.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_blgupta.jpg.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/blgupta.jpg"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_debate.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/debate.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_arduino.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/arduino.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_pos5.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/pos5.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_design_layout_snackbar_include.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-xxhdpi/ic_action_name.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_beg_borrow_steal.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/beg_borrow_steal.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_ic_menu_overflow_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_workshop.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/mipmap-xxhdpi/workshop.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_name.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-hdpi/ic_action_name.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_anmol.jpg.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/anmol.jpg"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_gniot.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/gniot.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_textfield_search_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_dialog_material_background.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_events.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/events.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_roboracep.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/roboracep.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_design_navigation_item_subheader.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_spell.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/spell.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_activity_ts18.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/activity_ts18.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_roborace.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/roborace.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_abc_action_menu_item_layout.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_arpit.jpg.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/arpit.jpg"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_light.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout-v11_notification_template_big_media_narrow.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout_robotic.xml.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/layout/robotic.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-ldpi_robo.png.flat",
+        "source": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/res/drawable-ldpi/robo.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_light.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_track_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/anim_design_bottom_sheet_slide_out.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/mtr/AndroidStudioProjects/GNIOTTechClub/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_top_material.xml.flat",
+        "source": "/home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/res/drawable/abc_cab_background_top_material.xml"
+    }
+]

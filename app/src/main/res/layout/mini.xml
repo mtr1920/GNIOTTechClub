@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e0e0e0"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#2196f3">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:textColor="#ffffff"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="20dp"
+            android:textSize="24sp"
+            android:text="Mini Militia" />
+
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginBottom="2dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#004D40"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_weight="1"
+                android:id="@+id/imageView1"
+                android:src="@drawable/mini"
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:layout_alignParentRight="true"
+                android:scaleType="fitXY"/>
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="•	This is an individual as well as a team event."
+                android:paddingRight="16dp"
+                android:paddingLeft="16dp"
+                android:paddingTop="16dp"
+                android:textStyle="normal"
+                android:textSize="14sp"
+                android:textColor="#ffffff" />
+            <TextView
+                android:text="•	Mini Militia is an online multi player game in which people fight with other players for glory and points."
+                android:paddingTop="4dp"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingBottom="16dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView12"
+                android:textSize="14sp"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginBottom="2dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#004D40"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+            <TextView
+                android:text="Rules"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:id="@+id/textView3"
+                android:textStyle="normal"
+                android:textAllCaps="true"
+                android:textSize="18sp"
+                android:textColor="#ffffff" />
+
+
+            <TextView
+                android:text="1.	There are 4 members in each team."
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView4"
+                android:textSize="14sp"
+                android:textColor="#ffffff" />
+            <TextView
+                android:text="2.	There will be 3 matches played between two team at three different venues, 'Outpost' , 'High Tower', 'Catacomb' of default time 6 min 30 seconds."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView7"
+                android:textSize="14sp"
+                android:textColor="#ffffff" />
+            <TextView
+                android:text="3.	Best of three will be considered for evaluating results, and in case of Draw, total no of killings of all three matches will be considered. If a team wins first two matches there is no need of third match to be played."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView8"
+                android:textSize="14sp"
+                android:textColor="#ffffff" />
+            <TextView
+                android:text="4.	No pre-installed games will be allowed, we will provide game app there itself and each game will be spectated by Co-ordinator."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView9"
+                android:textSize="14sp"
+                android:textColor="#ffffff" />
+            <TextView
+                android:text="5.	No re-match will be conducted if anyone's device or game crashed or in any other cases. "
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textSize="14sp"
+                android:textColor="#ffffff" />
+            <TextView
+                android:text="6.	Mobiles should be fully charged and put in airplane mode."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView11"
+                android:textSize="14sp"
+                android:textColor="#ffffff" />
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginBottom="2dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#004D40"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+
+                    <TextView
+                        android:text="Schedule"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView5"
+                        android:textAllCaps="true"
+                        android:textStyle="normal"
+                        android:textSize="18sp"
+                        android:textColor="#ffffff"
+                        />
+
+                    <TextView
+                        android:text="April 06-07,2018 at GNIOT"
+                        android:layout_marginTop="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="30dp"
+                        android:id="@+id/textView6"
+                        android:textSize="14sp"
+                        android:textStyle="normal|bold"
+                        android:textColor="#ffffff" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

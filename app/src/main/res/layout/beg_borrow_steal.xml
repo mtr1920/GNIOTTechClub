@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E0E0E0"
+    android:orientation="vertical"
+    android:weightSum="1">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#2196f3">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:textColor="#ffffff"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="20dp"
+            android:textSize="24sp"
+            android:text="Beg Borrow Steal" />
+
+    </LinearLayout>
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="2dp">
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="#795548">
+
+                    <ImageView
+                        android:id="@+id/imageView1"
+                        android:src="@drawable/beg"
+                        android:layout_height="120dp"
+                        android:layout_width="150dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginLeft="215dp"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:padding="16dp">
+
+                        <TextView
+                            android:id="@+id/textView2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="•	A Team will comprise of 4-5 members. "
+                            android:textStyle="normal"
+                            android:textSize="14sp"
+                            android:layout_marginRight="130dp"
+
+                            android:textColor="#ffffff"/>
+                        <TextView
+                            android:text="•	All the teams will be provided with a list of items."
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/textView17"
+                            android:textStyle="normal"
+                            android:textSize="14sp"
+                            android:layout_marginRight="130dp"
+                            android:textColor="#ffffff"/>
+                        <TextView
+                            android:text="•	Team members will have to complete the task within a time limit."
+                            android:layout_marginTop="16dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/textView18"
+                            android:textSize="14sp"
+                            android:textColor="#ffffff" />
+                        <TextView
+                            android:text="•	Team can either beg, borrow or steal the items that are enlisted and provided to them."
+                            android:layout_marginTop="16dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/textView19"
+                            android:textSize="14sp"
+                            android:textColor="#ffffff" />
+                        <TextView
+                            android:text="•	After the completion of the task the teams will are required to report to the coordinators for evaluation."
+                            android:layout_marginTop="16dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/textView20"
+                            android:textSize="14sp"
+                            android:textColor="#ffffff" />
+                        <TextView
+                            android:text="•	Teams will be judged on first come, first serve basis and also the items they were able to collect."
+                            android:layout_marginTop="16dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/textView21"
+                            android:textSize="14sp"
+                            android:textColor="#ffffff" />
+
+                        <TextView
+                            android:id="@+id/textView22"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="16dp"
+                            android:text="•	You cannot use and harm the college properties."
+                            android:textColor="#ffffff"
+                            android:textSize="14sp" />
+
+                    </LinearLayout>
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="2dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="#795548"
+                android:padding="16dp">
+
+            <TextView
+                android:text="Rules"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:id="@+id/textView3"
+                android:textStyle="normal|bold"
+                android:textAllCaps="true"
+                android:textSize="18sp"
+                android:textColor="#ffffff" />
+
+
+            <TextView
+                android:text="1.	Maximum members =5"
+                android:layout_marginTop="16dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView4"
+                android:textSize="14sp"
+                android:textColor="#ffffff" />
+            <TextView
+                android:text="2.	Minimum members=4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView7"
+                android:textSize="14sp"
+                android:textColor="#ffffff" />
+            <TextView
+                android:text="3.	All the members of the team must be present at the work space by 10 am. No extra time will be given if they arrive late."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView8"
+                android:textSize="14sp"
+                android:textColor="#ffffff" />
+            <TextView
+                android:text="4.	A list with 50 items on it will be handed to all the teams."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView9"
+                android:textSize="14sp"
+                android:textColor="#ffffff" />
+            <TextView
+                android:text="5.	The list will be same for all the teams."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                android:textSize="14sp"
+                android:textColor="#ffffff" />
+            <TextView
+                android:text="6.	A box will be given to every team. You have to submit those items in the box without damaging it. "
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView11"
+                android:textSize="14sp"
+                android:textColor="#ffffff" />
+            <TextView
+                android:text="7.	You have 3 hours to collect all the items on the list. "
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView12"
+                android:textSize="14sp"
+                android:textColor="#ffffff" />
+            <TextView
+                android:text="8.	Items submitted will not be given back."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView13"
+                android:textSize="14sp"
+                android:textColor="#ffffff"/>
+            <TextView
+                android:text="9.	Each item will help you score a specific number of points."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView14"
+                android:textSize="14sp"
+                android:textColor="#ffffff"/>
+            <TextView
+                android:text="10.	At the time of submission, all the team members must be present at the work space. "
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView15"
+                android:textSize="14sp"
+                android:textColor="#ffffff"/>
+
+            <TextView
+                android:text="11.	Winner will be decided on the basis of the total number of points obtained by them. If more than one team have the same total number of points, number of items collected by them will be taken into account. "
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView16"
+                android:textSize="14sp"
+                android:textColor="#ffffff"/>
+
+            <TextView
+                android:text="12.	 The team is not bound to collect all the items. First team to arrive with collected items will receive additional 30 points. Second team to arrive with collected items will receive additional 20 points. Third team to arrive with collected items will receive additional 10 points."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView23"
+                android:textSize="14sp"
+                android:textColor="#ffffff"/>
+
+            <TextView
+                android:text="13.	If any team fails to submit the box on time, that particular team
+will be disqualified. "
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView24"
+                android:textSize="14sp"
+                android:textColor="#ffffff"/>
+
+            </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="2dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="#795548"
+                android:padding="16dp">
+
+            <TextView
+                    android:text="Schedule"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView5"
+                    android:textAllCaps="true"
+                    android:layout_marginTop="20dp"
+                    android:textStyle="normal|bold"
+                    android:textSize="18sp"
+                    android:textColor="#ffffff"  />
+
+                <TextView
+                    android:text="April 06-07,2018 at GNIOT"
+                    android:layout_marginTop="16dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView6"
+                    android:layout_marginBottom="30dp"
+                    android:textSize="14sp"
+                    android:textStyle="normal|bold"
+                    android:textColor="#ffffff" />
+            </LinearLayout>
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

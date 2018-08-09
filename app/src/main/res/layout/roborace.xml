@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e0e0e0"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#2196f3">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:textColor="#ffffff"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="20dp"
+            android:textSize="24sp"
+            android:text="Robotics" />
+    </LinearLayout>
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:background="#FF80AB"
+                    android:padding="16dp">
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:id="@+id/imageView1"
+                            android:src="@drawable/robo"
+                            android:layout_height="100dp"
+                            android:layout_width="120dp"
+                            android:layout_alignParentRight="true"/>
+
+                        <TextView
+                            android:id="@+id/textView2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text=' "More speed, more power with minimum time" '
+                            android:layout_marginTop="30dp"
+                            android:textStyle="normal|bold"
+                            android:paddingRight="120dp"
+                            android:textSize="14sp"
+                            android:textColor="#000000" />
+                    </RelativeLayout>
+                    <TextView
+                        android:text="Design a manually controlled ROBOT that has capacity to cover maximum distance in shortest possible time, challenging the hurdles and be one of the best opponents. Think your robot can overcome any obstacle-big or small in the least of time. If so get it on the track and let the game begin. And bear in mind that maximizing RPM does not make you winner but winners are those who have good presence of mind, sharpness and practice. "
+                        android:layout_marginTop="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView8"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="2dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:background="#FF80AB"
+                    android:padding="16dp">
+                    <TextView
+                        android:text="Track "
+                        android:layout_marginTop="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView9"
+                        android:textStyle="bold"
+                        android:textSize="18sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="1.Width of track will be 30cm. "
+                        android:layout_marginTop="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView10"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="2.  Track surface and course may have unevenness. "
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView11"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="3. There might be abrupt angles. "
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView12"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="4. There will be certain obstacles in race track which will try to slow down the speed of the robot ex. Road cones. "
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView13"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="5. Arena will consist of switch gate, speed breakers, marble/sand pits, slippery paths, rotating disc, see-saw, slotted ramp etc."
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView14"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="6. Actual track will be revealed on the day of the event. "
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView15"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="7. A.C Power supply of 220V will be provided. Participants must bring there own adaptors or batteries to operate their robots. "
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView16"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="2dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:background="#FF80AB"
+                    android:padding="16dp">
+
+                    <TextView
+                        android:text="Machine Specifications "
+                        android:layout_marginTop="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:id="@+id/textView17"
+                        android:textSize="18sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="1. The dimension of bot should not exceed 25x25x25 cm (L*B* H). Non-adherence to the dimensions will lead to outright ousting from the event with no exceptions."
+                        android:layout_marginTop="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView18"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="2. The minimum width of the bot should be 15 cm. "
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView19"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="3. The weight of the robot should not exceed 2 Kg's. "
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView20"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="4. The robot can be fully powered only electrically either through power Adaptor or batteries. "
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView21"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="5. The machine should be controlled by wireless remote controlled mechanism or wired one throughout the race. "
+                        android:layout_marginTop="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView22"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="6. If the machine is wired then the wire should remain slack under all circumstances during the competition. All the wires coming out of machine should be stacked as single unit. The wires must be properly insulated."
+                        android:layout_marginTop="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView23"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="7.  The upper limit for motor capacity is 500rpm. "
+                        android:layout_marginTop="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView24"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="2dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:background="#FF80AB"
+                    android:padding="16dp">
+
+                    <TextView
+                        android:text="Rules"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:id="@+id/textView3"
+                        android:textStyle="normal|bold"
+                        android:textAllCaps="true"
+                        android:textSize="18sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="A) Game"
+                        android:layout_marginTop="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView4"
+                        android:textStyle="bold"
+                        android:textSize="16sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="1. Every team will be given only one chance to run their machine on the track."
+                        android:layout_marginTop="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView25"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="2. Timer will start when robot starts from the starting point. "
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView26"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="3. There will be a time penalty if the robot touches any obstacle or the boundary of the track."
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView27"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="4. The robot should not damage any part of the arena. "
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView28"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="5. There will be partial points based on the length covered, checkpoints cleared. "
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView29"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="6. The robot will be judged on basis of (in priority): "
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView30"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="  a. Time to complete the track. "
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView31"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="  b. Number of checkpoints cleared."
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView32"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="7. The judges' decision on the criteria of innovation and design cannot be competed. "
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView33"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="8. If the teams reset their robots position then they will have to start from the last checkpoint cleared. "
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView34"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="9. During the Round, only maximum of two team members are allowed in the arena, one member will control the robot and other to guide it. "
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView35"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="10. Each team should have its own programmers and components; no programmers or components will be made available by the coordinator during the event. "
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView36"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="11.  Unethical behavior could lead to disqualification. Faculty-coordinators have all the rights to take final decision for any matter during the event. "
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView37"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="B) General"
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView38"
+                        android:textStyle="bold"
+                        android:textSize="16sp"
+                        android:textColor="#000000"
+                        android:layout_marginTop="10dp" />
+                    <TextView
+                        android:text="1. Each team can have maximum 4 members. "
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView39"
+                        android:textSize="14sp"
+                        android:textColor="#000000"
+                        android:layout_marginTop="10dp" />
+                    <TextView
+                        android:text="2. Judges' and coordinators' decision shall be treated as final and binding on all. "
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView40"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="3. Machine must not contain any readymade kits, pneumatic and hydraulic systems, IC engines."
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView41"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="2dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:background="#FF80AB"
+                    android:padding="16dp">
+
+                    <TextView
+                        android:text="Schedule"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView5"
+                        android:textAllCaps="true"
+                        android:layout_marginTop="20dp"
+                        android:textStyle="normal|bold"
+                        android:textSize="18sp"
+                        android:textColor="#000000" />
+
+                    <TextView
+                        android:text="April 06-07,2018 at GNIOT"
+                        android:layout_marginTop="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView6"
+                        android:layout_marginBottom="30dp"
+                        android:textSize="14sp"
+                        android:textStyle="normal|bold"
+                        android:textColor="#000000" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

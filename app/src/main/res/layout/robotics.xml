@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e0e0e0"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#2196f3">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:textColor="#ffffff"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="20dp"
+            android:textSize="24sp"
+            android:text="Robotics" />
+    </LinearLayout>
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp">
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="#ffffff"
+                    android:padding="16dp">
+
+                    <ImageView
+                        android:id="@+id/imageView1"
+                        android:src="@drawable/robo"
+                        android:layout_height="100dp"
+                        android:layout_width="120dp"
+                        android:layout_alignParentRight="true"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/textView2"
+                            android:textSize="14sp"
+                            android:text="Construct the machine to have the maximum SPEED to beat another machine on the given track to reach the final destination in minimum time."
+                            android:textColor="#000000"
+                            android:paddingRight="120dp"/>
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:paddingTop="10dp"
+                            android:text=" Design and construct a remote controlled robot capable of not only running fast but also of fighting the hurdles on the track.There will be two sub-categories:-"
+                            android:textSize="14sp"
+                            android:textColor="#000000" />
+
+                    </LinearLayout>
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <Button
+                android:text="Robo Race"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button"
+                android:textAllCaps="false"
+                android:elevation="100dp"
+                android:background="#ffffff"
+                android:paddingLeft="16dp"
+                android:gravity="bottom"
+                android:paddingBottom="16dp"
+                android:layout_marginTop="1dp"/>
+
+            <Button
+                android:text="Robo Scoccer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button2"
+                android:textAllCaps="false"
+                android:elevation="100dp"
+                android:layout_marginTop="1dp"
+                android:background="#ffffff"
+                android:paddingLeft="16dp"
+                android:gravity="bottom"
+                android:paddingBottom="16dp"
+                android:shadowColor="@color/cardview_shadow_end_color"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

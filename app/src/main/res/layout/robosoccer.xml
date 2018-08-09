@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e0e0e0"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#2196f3">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:textColor="#ffffff"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="20dp"
+            android:textSize="24sp"
+            android:text="Robotics" />
+    </LinearLayout>
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp">
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:background="#DCE775"
+                    android:padding="10dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="16dp">
+
+                    <ImageView
+                        android:id="@+id/imageView1"
+                        android:src="@drawable/robo"
+                        android:layout_height="80dp"
+                        android:layout_width="100dp"
+                        android:layout_alignParentRight="true"/>
+
+                    <TextView
+                        android:text="Rules"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="20dp"
+                        android:id="@+id/textView3"
+                        android:textStyle="normal"
+                        android:textAllCaps="true"
+                        android:textSize="24sp"
+                        android:textColor="#000000" />
+                </RelativeLayout>
+                    <TextView
+                        android:text="1. Each team will have to defend the goal on its side as well as score the goal on the opposite side."
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView4"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+
+                    <TextView
+                        android:text="2. Each team can have a maximum of5 team members."
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView7"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="3. A team will have one robot, (manually controlled)."
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView8"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="4. The game will start at the count of 3 given by referee followed by whistle. In case a team starts its robot before the whistle, the game will be restarted and a team making this mistake for more than 3 times will be disqualified."
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView9"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="5. The ball can be either dragged or pushed by the team."
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView10"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="6. Each goal scored by a team by rolling the ball on the ground will fetch the team 1 point."
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView11"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="7. The game will last for 5 minutes."
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView12"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="8. Maximum 2 members per team will be allowed to remain close to field for operating the robots."
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView13"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="9. In case of jam up of robots for more than 30 seconds the robots will have to kick-off again at the order of the referee."
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView14"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="10. In case of any discrepancy the final decision rests in the hands of judges."
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView15"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="11. Any act of misbehavior or misconduct will lead to immediate disqualification of the team."
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView16"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="12. The robots are not allowed to use grippers or actuations which are intended to harm the opponent's robot."
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView17"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="13. The competition is aimed at making the game a friendly football match rather than a robo-war."
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView18"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="2dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:background="#DCE775"
+                    android:padding="16dp">
+                    <TextView
+                        android:text="Fixture"
+                        android:layout_marginTop="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView19"
+                        android:textStyle="normal"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="Considering number of entries to be 8 fixtures may vary on the basis of number of entries"
+                        android:layout_marginTop="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView20"
+                        android:textStyle="normal"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="1. Each team will be facing another team on knockout basis."
+                        android:layout_width="match_parent"
+                        android:layout_marginTop="10dp"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView21"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="2. 30 second will be allotted for game when the match will be a tie."
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView22"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="3. The winner of the above four matches will be in semi-final."
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView23"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                    <TextView
+                        android:text="4. The winner of the semi-final will be in final."
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView24"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+
+                    <TextView
+                        android:text="5. 5 the winner of final will have the winner."
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView25"
+                        android:textSize="14sp"
+                        android:textColor="#000000" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="2dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:background="#DCE775"
+                    android:padding="16dp">
+
+                    <TextView
+                        android:text="Schedule"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView5"
+                        android:textAllCaps="true"
+                        android:layout_marginTop="10dp"
+                        android:textStyle="normal"
+                        android:textSize="24sp"
+                        android:textColor="#000000" />
+
+                    <TextView
+                        android:text="April 06-07,2018 at GNIOT"
+                        android:layout_marginTop="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView6"
+                        android:textColor="#000000"
+                        android:layout_marginBottom="30dp"
+                        android:textSize="14sp"
+                        android:textStyle="normal"/>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

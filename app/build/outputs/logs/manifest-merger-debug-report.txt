@@ -1,0 +1,299 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:2:1-188:12
+INJECTED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:2:1-188:12
+INJECTED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:2:1-188:12
+INJECTED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:2:1-188:12
+MERGED from [com.android.support:design:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/mtr/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/750f1314fd9684e29306a022ff2215a2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/transition-25.1.0.aar/49c474d50328f4b36c3c352f0d1f68d1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/e833c3856d1da0f078e30bb009979411/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.1.0.aar/46c95834f18601964d8236e20a8a12c5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.1.0.aar/29a241856a6b05fe7e4e2afb6985376d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/9f12016751aebaafc43a78673fb580df/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/2c7c29687568088d5321066802373547/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/3cc4f898ceebb8962ad31c88c1d62ce0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/fbd3b42eba6c89f5f44992daa7dc9a87/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/2fe8ee9036c95f9cf446fec99446d595/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/c054f12f79ac061aee6c0b996043c605/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/c06e6a5ce7774eb795cb55efd4746476/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:2:1-188:12
+INJECTED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:2:1-188:12
+INJECTED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:2:1-188:12
+	package
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:2:1-188:12
+		INJECTED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:2:1-188:12
+		INJECTED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:5:5-186:19
+MERGED from [com.android.support:design:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/mtr/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/750f1314fd9684e29306a022ff2215a2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/mtr/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/750f1314fd9684e29306a022ff2215a2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/transition-25.1.0.aar/49c474d50328f4b36c3c352f0d1f68d1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/transition-25.1.0.aar/49c474d50328f4b36c3c352f0d1f68d1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/e833c3856d1da0f078e30bb009979411/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/e833c3856d1da0f078e30bb009979411/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.1.0.aar/46c95834f18601964d8236e20a8a12c5/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.1.0.aar/46c95834f18601964d8236e20a8a12c5/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/9f12016751aebaafc43a78673fb580df/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/9f12016751aebaafc43a78673fb580df/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/2c7c29687568088d5321066802373547/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/2c7c29687568088d5321066802373547/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/3cc4f898ceebb8962ad31c88c1d62ce0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/3cc4f898ceebb8962ad31c88c1d62ce0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/fbd3b42eba6c89f5f44992daa7dc9a87/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/fbd3b42eba6c89f5f44992daa7dc9a87/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/2fe8ee9036c95f9cf446fec99446d595/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/2fe8ee9036c95f9cf446fec99446d595/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/c054f12f79ac061aee6c0b996043c605/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/c054f12f79ac061aee6c0b996043c605/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/c06e6a5ce7774eb795cb55efd4746476/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/c06e6a5ce7774eb795cb55efd4746476/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.example.asus.gniottechclub.MainActivity
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:11:9-15:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:12:13-14:29
+action#android.intent.action.MAIN
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:13:25-66
+activity#com.example.asus.gniottechclub.splashscreen
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:16:9-21:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:17:13-20:29
+category#android.intent.category.LAUNCHER
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.asus.gniottechclub.Events
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:22:9-26:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:22:19-41
+activity#com.example.asus.gniottechclub.Ourteam
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:27:9-31:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:27:19-42
+activity#com.example.asus.gniottechclub.TS17
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:32:9-36:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:32:19-39
+activity#com.example.asus.gniottechclub.Roborace
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:37:9-41:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:37:19-43
+activity#com.example.asus.gniottechclub.Robosoccer
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:42:9-46:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:42:19-45
+activity#com.example.asus.gniottechclub.COC
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:47:9-51:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:47:19-38
+activity#com.example.asus.gniottechclub.CS
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:52:9-56:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:52:19-37
+activity#com.example.asus.gniottechclub.Mini_Militia
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:57:9-61:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:57:19-47
+activity#com.example.asus.gniottechclub.NFS
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:62:9-66:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:62:19-38
+activity#com.example.asus.gniottechclub.An_Idea_for_Change
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:67:9-71:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:67:19-53
+activity#com.example.asus.gniottechclub.Backtrack
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:72:9-76:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:72:19-44
+activity#com.example.asus.gniottechclub.Beg_Borrow_Steal
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:77:9-81:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:77:19-51
+activity#com.example.asus.gniottechclub.Bridge_Building
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:82:9-86:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:82:19-50
+activity#com.example.asus.gniottechclub.Circuit_Sergeon
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:87:9-91:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:87:19-50
+activity#com.example.asus.gniottechclub.Creative_Writing
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:92:9-96:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:92:19-51
+activity#com.example.asus.gniottechclub.Debate
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:97:9-101:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:97:19-41
+activity#com.example.asus.gniottechclub.Debugging
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:102:9-106:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:102:19-44
+activity#com.example.asus.gniottechclub.Extempore
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:107:9-111:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:107:19-44
+activity#com.example.asus.gniottechclub.IQ_Sector
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:112:9-116:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:112:19-44
+activity#com.example.asus.gniottechclub.Lan_Thrash
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:117:9-121:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:117:19-45
+activity#com.example.asus.gniottechclub.Momentum
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:122:9-126:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:122:19-43
+activity#com.example.asus.gniottechclub.Poster_Making
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:127:9-131:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:127:19-48
+activity#com.example.asus.gniottechclub.Quiz
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:132:9-136:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:132:19-39
+activity#com.example.asus.gniottechclub.Robotics
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:137:9-141:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:137:19-43
+activity#com.example.asus.gniottechclub.Spell_Bee
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:142:9-146:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:142:19-44
+activity#com.example.asus.gniottechclub.Workshops
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:147:9-151:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:147:19-44
+activity#com.example.asus.gniottechclub.Arduino
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:152:9-156:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:152:19-42
+activity#com.example.asus.gniottechclub.Augmented
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:157:9-161:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:157:19-44
+activity#com.example.asus.gniottechclub.Staadpro
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:162:9-166:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:162:19-43
+activity#com.example.asus.gniottechclub.Printing
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:167:9-171:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:167:19-43
+activity#com.example.asus.gniottechclub.Dataanalytics
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:172:9-176:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:172:19-48
+activity#com.example.asus.gniottechclub.Robotic
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:177:9-181:20
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:177:19-42
+activity#com.example.asus.gniottechclub.TS18
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:182:9-42
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:182:19-39
+activity#com.example.asus.gniottechclub.Hackathon
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:183:9-47
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:183:19-44
+activity#com.example.asus.gniottechclub.Product_Design
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:184:9-52
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:184:19-49
+activity#com.example.asus.gniottechclub.Selfie
+ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:185:9-53
+	android:name
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml:185:19-41
+uses-sdk
+INJECTED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml
+INJECTED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9929a1efbad50b32c9b6001b3ba44c28/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/mtr/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/750f1314fd9684e29306a022ff2215a2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/mtr/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/750f1314fd9684e29306a022ff2215a2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/transition-25.1.0.aar/49c474d50328f4b36c3c352f0d1f68d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/transition-25.1.0.aar/49c474d50328f4b36c3c352f0d1f68d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/e833c3856d1da0f078e30bb009979411/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/e833c3856d1da0f078e30bb009979411/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.1.0.aar/46c95834f18601964d8236e20a8a12c5/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.1.0.aar/46c95834f18601964d8236e20a8a12c5/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.1.0.aar/29a241856a6b05fe7e4e2afb6985376d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.1.0.aar/29a241856a6b05fe7e4e2afb6985376d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/9f12016751aebaafc43a78673fb580df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/9f12016751aebaafc43a78673fb580df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/2c7c29687568088d5321066802373547/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/2c7c29687568088d5321066802373547/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/3cc4f898ceebb8962ad31c88c1d62ce0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/3cc4f898ceebb8962ad31c88c1d62ce0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/fbd3b42eba6c89f5f44992daa7dc9a87/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/fbd3b42eba6c89f5f44992daa7dc9a87/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/2fe8ee9036c95f9cf446fec99446d595/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/2fe8ee9036c95f9cf446fec99446d595/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/c054f12f79ac061aee6c0b996043c605/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/c054f12f79ac061aee6c0b996043c605/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/c06e6a5ce7774eb795cb55efd4746476/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/c06e6a5ce7774eb795cb55efd4746476/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml
+INJECTED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/818a05bb58aa2a2d924aaaff8f9072cb/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml
+		ADDED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mtr/AndroidStudioProjects/GNIOTTechClub/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/e833c3856d1da0f078e30bb009979411/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/3cc4f898ceebb8962ad31c88c1d62ce0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/3cc4f898ceebb8962ad31c88c1d62ce0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/fbd3b42eba6c89f5f44992daa7dc9a87/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/fbd3b42eba6c89f5f44992daa7dc9a87/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/2fe8ee9036c95f9cf446fec99446d595/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/2fe8ee9036c95f9cf446fec99446d595/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/c054f12f79ac061aee6c0b996043c605/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/c054f12f79ac061aee6c0b996043c605/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/c06e6a5ce7774eb795cb55efd4746476/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/c06e6a5ce7774eb795cb55efd4746476/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/e833c3856d1da0f078e30bb009979411/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:25.4.0] /home/mtr/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/e833c3856d1da0f078e30bb009979411/AndroidManifest.xml:27:13-51
